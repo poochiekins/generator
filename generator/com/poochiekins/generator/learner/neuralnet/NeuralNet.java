@@ -1,15 +1,10 @@
 package com.poochiekins.generator.learner.neuralnet;
 
-public class NeuralNet {
-
+public class NeuralNet
+{
+	
 	Neuron[] input;
 	
 	Neuron[] output;
-	
-	
-	
-	
-	
-	
 	
 }

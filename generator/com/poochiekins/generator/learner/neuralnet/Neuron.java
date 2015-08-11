@@ -1,12 +1,12 @@
 package com.poochiekins.generator.learner.neuralnet;
 
-public class Neuron {
-
+public class Neuron
+{
+	
 	Neuron[] forward;
 	
 	Neuron[] backward;
 	
 	double[] weights;
-	
 	
 }

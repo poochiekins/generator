@@ -1,5 +1,6 @@
 package com.poochiekins.generator;
 
-public class Generator {
+public class Generator
+{
 
 }

@@ -1,5 +1,6 @@
 package com.poochiekins.generator.learner;
 
-public class Learner {
+public class Learner
+{
 
 }
